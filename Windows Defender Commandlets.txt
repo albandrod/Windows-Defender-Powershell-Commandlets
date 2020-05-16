@@ -1,0 +1,8 @@
+Full Scan:
+Start-MpScan -scantype FullScan
+
+Quick Scan:
+Start-MpScan -scantype QuickScan
+
+Defender Update:
+Update-MpSignature
